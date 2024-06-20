@@ -11,7 +11,7 @@ This is a simple color picker web application that allows users to select and st
 
 ## Demo
 
-![Color Picker Demo](demo.gif)
+![Color Picker Demo]((https://github.com/aro-ch-18/ColorPicker/blob/main/Screenshot%202024-06-21%20000956.png))
 
 ## Installation
 
