@@ -1,0 +1,16 @@
+{
+    "manifest_version":3,
+    "name":"Color Picker - Arohan ",
+    "description":"A simple color picker. It easily picks any color in the screen , displays the picked color and copies it to the clipboard when clicked",
+    "version":"1.0.0",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "16":"icons/color-picker16.png",
+        "24":"icons/color-picker24.png",
+        "32":"icons/color-picker32.png",
+        "64":"icons/color-picker64.png",
+        "128":"icons/color-picker128.png"        
+    }
+}
